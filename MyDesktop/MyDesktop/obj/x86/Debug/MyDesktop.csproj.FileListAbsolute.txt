@@ -1,0 +1,13 @@
+D:\My Documents\MyDesktop\MyDesktop\MyDesktop\bin\Debug\MyDesktop.exe
+D:\My Documents\MyDesktop\MyDesktop\MyDesktop\bin\Debug\MyDesktop.pdb
+D:\My Documents\MyDesktop\MyDesktop\MyDesktop\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\MyDesktop\MyDesktop\MyDesktop\obj\x86\Debug\MainWindow.baml
+D:\My Documents\MyDesktop\MyDesktop\MyDesktop\obj\x86\Debug\MainWindow.g.cs
+D:\My Documents\MyDesktop\MyDesktop\MyDesktop\obj\x86\Debug\App.g.cs
+D:\My Documents\MyDesktop\MyDesktop\MyDesktop\obj\x86\Debug\MyDesktop_MarkupCompile.cache
+D:\My Documents\MyDesktop\MyDesktop\MyDesktop\obj\x86\Debug\MyDesktop.g.resources
+D:\My Documents\MyDesktop\MyDesktop\MyDesktop\obj\x86\Debug\MyDesktop.Properties.Resources.resources
+D:\My Documents\MyDesktop\MyDesktop\MyDesktop\obj\x86\Debug\ResGen.read.1.tlog
+D:\My Documents\MyDesktop\MyDesktop\MyDesktop\obj\x86\Debug\ResGen.write.1.tlog
+D:\My Documents\MyDesktop\MyDesktop\MyDesktop\obj\x86\Debug\MyDesktop.exe
+D:\My Documents\MyDesktop\MyDesktop\MyDesktop\obj\x86\Debug\MyDesktop.pdb
